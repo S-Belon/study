@@ -1,3 +1,3 @@
 # Study
 
-Some description
+Some description!
